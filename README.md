@@ -1,10 +1,12 @@
-![](https://komarev.com/ghpvc/?username=DebasishBlockchain&label=Profile+Views&style=flat-square&color=blueviolet)
 [![MasterHead](https://blog.magmalabs.io/wp-content/uploads/2022/09/Exploring-Blockchain.gif)](https://kumardev.in)
 <h1 align="center">Hi 👋, I'm Debasish Sahu</h1>
 <h3 align="center">A passionate Web3 & Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-# 💫 About Me:
+[![Profile Views](https://komarev.com/ghpvc/?username=DebasishBlockchain&label=Profile+Views&style=plastic&color=blueviolet)](https://github.com/DebasishBlockchain)
+
+
+# 💫 About Me: 
 🔭 I’m currently working on my **Start-UP** .<br>👯 I’m looking to collaborate on **Web3 Projects** .<br>🤝 I’m looking for help with **Blockchain** .<br>🌱 I’m currently learning **AI // Machine Learning** .<br>💬 Ask me about **Web3** .<br>⚡ Fun fact is i know **Trading on Stock Market** .<br>📫 How to reach me : **debasish.blockchain@gmail.com**
 
 
